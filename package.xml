@@ -1,0 +1,8 @@
+<packages>
+  <package name="PhyDyn" version="1.0.0"
+	   url="https://github.com/mrc-ide/PhyDyn/raw/master/dist/PhyDyn.v1.0.0.zip"
+	   projectURL="https://github.com/mrc-ide/PhyDyn"
+	   description="Flexible phylodynamic inference">
+  <depends on="beast2" atleast="2.2.1"/>
+</package>
+</packages>
